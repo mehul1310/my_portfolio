@@ -8,8 +8,11 @@ This repository showcases a collection of web projects developed using various m
 
 ### [Nettimökki](https://www.nettimokki.com/)
 **Backend:** Symfony 3,5
+
 **Frontend:** Twig, Jquery
+
 **Database:** MySQL
+
 **Description:**  
 A comprehensive platform for renting vacation cottages in Finland. It features a seamless search experience, user-friendly interfaces, and a secure booking system. The project emphasizes scalability and high performance to handle large user traffic efficiently.
 
