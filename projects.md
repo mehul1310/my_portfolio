@@ -42,7 +42,7 @@ A smart NFC tagging platform that allows users to create, manage, and share digi
 ---
 
 ### [Oma Alma Ajo](https://oma.almaajo.fi/)
-**Framework:** React JS  
+**Framework:** React
 **Description:**  
 A modern web application providing real-time updates for Alma Ajo services. Built with a focus on responsive design and interactive user experiences, the app ensures smooth navigation and real-time notifications.
 
